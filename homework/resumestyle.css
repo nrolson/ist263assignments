@@ -1,0 +1,43 @@
+<style>
+/* Type selector */
+
+body {
+    background-color: white;
+}
+
+h1 {
+    font-family: "Roboto Bold", Arial;
+    color: white;
+    font-size: 44px;
+    background-color: #548235;
+    padding: 10px;
+}
+
+h2 {
+    font-family: "Roboto Bold", Arial;
+    color: white;
+    background-color: #404040;
+    padding: 10px;
+}
+
+h3 {
+    font-family: "Roboto Medium", Arial;
+    color: #404040;
+}
+
+p {
+    font-family: "Roboto Regular", Arial;
+    color: #505050;
+}
+
+ul {
+    font-family: "Roboto Regular", Arial;
+    color: #505050;
+}
+
+p#gradientBG {
+    background-image: url("./images/gradient_bg.png");
+    background-repeat: repeat-x;
+    /* values is repeat-y or no-repeat */
+}
+</style>
