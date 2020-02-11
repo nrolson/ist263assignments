@@ -2,7 +2,8 @@
 /* Type selector */
 
 body {
-    background-color: white;
+    background-image: url("https://nrolson.github.io/ist263assignments/homework/gradient_bg.png");
+    background-repeat: repeat;
 }
 
 h1 {
@@ -42,8 +43,4 @@ ul {
     color: #505050;
 }
 
-p#gradientBG {
-    background-image: url("https://nrolson.github.io/ist263assignments/homework/gradient_bg.png");
-    background-repeat: repeat;
-}
 </style>
