@@ -23,12 +23,13 @@ h2 {
 h3 {
     font-family: "Roboto Medium", Arial;
     color: #404040;
-    padding: 10px;
+    padding: 50px 50px 50px 50px;
             margin: 15px;
 
             border-top-width: 5px;
             border-top-style: ridge;
             border-top-color:#548235;
+            
 }
 
 p {
