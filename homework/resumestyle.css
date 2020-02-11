@@ -2,7 +2,8 @@
 /* Type selector */
 
 body {
-    background-color: white;
+    background-image: url("https://nrolson.github.io/ist263assignments/homework/gradient_bg.png");
+    background-repeat: repeat-y;
 }
 
 h1 {
@@ -40,11 +41,5 @@ p {
 ul {
     font-family: "Roboto Regular", Arial;
     color: #505050;
-}
 
-p#gradientBG {
-    background-image: url("https://nrolson.github.io/ist263assignments/homework/gradient_bg.png");
-    background-repeat: repeat-y;
-    /* values is repeat-y or no-repeat */
-}
 </style>
