@@ -43,8 +43,8 @@ ul {
 }
 
 p#gradientBG {
-    background-image: url("./images/gradient_bg.png");
-    background-repeat: repeat-x;
+    background-image: url("https://nrolson.github.io/ist263assignments/homework/gradient_bg.png");
+    background-repeat: repeat-y;
     /* values is repeat-y or no-repeat */
 }
 </style>
